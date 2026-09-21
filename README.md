@@ -8,3 +8,5 @@ uma linha escrita localmente
 Uma outra pessoa alterou isso
 
 --Buscando um Conflito --LOCAL
+
+-- Buscando Conflito: Alteração Remota
